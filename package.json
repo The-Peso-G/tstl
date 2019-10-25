@@ -6,7 +6,7 @@
     "email": "samchon@samchon.org",
     "url": "http://samchon.org"
   },
-  "version": "2.3.0",
+  "version": "2.3.1-dev.20191025",
   "main": "./index.js",
   "typings": "./index.d.ts",
   "scripts": {
@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "@types/mv": "^2.1.0",
-    "@types/node": "^11.13.14",
+    "@types/node": "^11.15.0",
     "mv": "^2.1.1"
   },
   "homepage": "https://github.com/samchon/tstl",
